@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @leonardobora
 
-- 👀 I’m interested in learning about new technologies such as programming languages, cryptocurrencies and web development
+- 👀 I’m interested in learning about Python, Machine Learning, AI, Transformers, and much more!
 
-- 🌱 I’m currently learning Python's basics and working on my communication skills!
+- 🌱 I’m currently learning Python's basics and its capabilities within the AI ecosystem. I am currently enrolled as a software engineering student at UniBrasil. 
 
-- 💞️ I’m looking to collaborate on Web Development projects and Front-End challenges. I'm a problem solver!
+- 💞️ I’m looking to collaborate on chatbot projects and back-end challenges. I'm a problem solver!
 
 - 📫 How to reach me: click on my LinkedIn profile's link and message me through there!
