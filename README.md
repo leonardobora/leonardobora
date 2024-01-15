@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leonardobora
+- 👋 Hi, Im Leo Bora!
 
 - 👀 I’m interested in learning about Python, Machine Learning, AI, Transformers, and much more!
 
