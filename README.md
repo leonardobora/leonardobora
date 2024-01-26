@@ -1,5 +1,4 @@
-![snake gif]
-(https://github.com/leonardobora/leonardobora/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/leonardobora/leonardobora/blob/output/github-contribution-grid-snake.gif)
 
 - 👋 Hi, Im Leo Bora!
 
