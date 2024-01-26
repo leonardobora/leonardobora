@@ -1,3 +1,6 @@
+![snake gif]
+(https://github.com/leonardobora/docs/blob/output/github-contribution-grid-snake.gif)
+
 - 👋 Hi, Im Leo Bora!
 
 - 👀 I’m interested in learning about Python, Machine Learning, AI, Transformers, and much more!
