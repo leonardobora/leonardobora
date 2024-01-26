@@ -1,5 +1,4 @@
-![snake gif](https://github.com/leonardobora/leonardobora/blob/output/github-contribution-grid-snake.gif)
-
+![snakegrid](https://github.com/leonardobora/leonardobora/blob/output/github-contribution-grid-snake-dark.svg)
 - 👋 Hi, Im Leo Bora!
 
 - 👀 I’m interested in learning about Python, Machine Learning, AI, Transformers, and much more!
