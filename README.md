@@ -1,9 +1,18 @@
-<H1> # Welcome to my profile! </H1>
+<H1> Olá! Welcome to my profile!🤖 </H1>
 
 ![snakegrid](https://github.com/leonardobora/leonardobora/blob/output/github-contribution-grid-snake-dark.svg)
 
-[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardobora)](https://github.com/anuraghazra/github-readme-stats)
+## My contribution can be better, and I am working on it! :)
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardobora&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+## Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=vscode,python,azure,js,html,css,vercel,arduino,c,cpp,django,docker,git,pycharm,postman">
+    <img src="https://skillicons.dev/icons?i=vscode,python,azure,js,html,css,vercel,arduino,c,cpp,django,docker,git,pycharm,postman" alt="My Skills">
+  </a>
+</p>
+    
 - 👋 Hi, Im Leo Bora!
 
 - 👀 I’m interested in learning about Python, Machine Learning, AI, Transformel models, and much more!
