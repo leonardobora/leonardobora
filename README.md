@@ -2,6 +2,8 @@
 
 ![snakegrid](https://github.com/leonardobora/leonardobora/blob/output/github-contribution-grid-snake-dark.svg)
 
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardobora)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, Im Leo Bora!
 
 - 👀 I’m interested in learning about Python, Machine Learning, AI, Transformel models, and much more!
