@@ -13,7 +13,7 @@
   </a>
 </p>
     
-- 👋 Hi, Im Leo Bora! I am a software engineering intern at Furukawa Electric LatAm, in Curitiba, PR, Brazil. 
+- 👋 Hi, Im Leo Bora! I am a software engineering intern at Lightera LatAm, in Curitiba, PR, Brazil. 
 
 - 👀 I’m interested in learning about Python, Machine Learning, AI, Transformer models, and much more!
 
