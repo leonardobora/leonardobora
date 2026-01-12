@@ -33,7 +33,7 @@ I'm passionate about building **AI systems** that deliver real impact—balancin
 
 ## 🌍 Community & Impact
 
-- **🎯 U.S. Embassy Mentor** — Access E2C program mentor, helping Brazilian students pass professional exams and improve English for global opportunities
+- **🎯 Access E2C Mentor** — Access E2C program mentor, helping Brazilian students pass professional exams and improve English for global opportunities
 - **📝 AI Newsletter Creator** — Connecting Brazilian and global AI professionals through weekly insights and free resources
 - **🎤 Event Organizer & Speaker** — Regular presence at tech meetups, academic panels, and workshops promoting AI skills and inclusion
 - **👨‍🏫 Volunteer Educator** — Teaching technology and soft skills through Furukawa's "Formando Crianças para o Futuro" social program
