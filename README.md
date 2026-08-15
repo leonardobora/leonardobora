@@ -13,7 +13,7 @@ I'm passionate about building **AI systems** that deliver real impact — balanc
 - **📄 Academic Publication** — research paper on AI Agents for Microentrepreneurs via WhatsApp (social impact & digital inclusion)
 - **🏆 IEL Innovation Award 2025** — winner, "Innovative Intern - Large Company" category (Paraná regional stage)
 - **🎮 Global Game Jam Winner** — "Capybara BubbleGum", highlighted by Curitiba's city officials
-- **📰 Newsletter** — "Bora falar de IA?", 100+ subscribers, weekly AI insights for Brazilian professionals
+- **📰 Newsletter** — "Bora falar de IA?", 400+ subscribers, monthly AI insights for Brazilian professionals
 
 ## 🔭 What I'm building now (2026)
 
